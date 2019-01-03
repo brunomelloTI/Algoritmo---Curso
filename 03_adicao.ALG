@@ -4,14 +4,14 @@ var
    S: inteiro
 inicio
 
-    escreval ("Informe um número: ")
+    escreval ("Informe um nÃºmero: ")
     leia (N1)
-    escreval ("Informe outro número: ")
+    escreval ("Informe outro nÃºmero: ")
     leia (N2)
     S <- N1 + N2
     escreval ("")
     escreval (N1," +",N2, " = x")
     Escreval (N1," +",N2, " =", S)
     escreval ("")
-    escreval ("A adicao é",  S)
+    escreval ("A adicao Ã©",  S)
 fimalgoritmo
