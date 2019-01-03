@@ -14,7 +14,7 @@ inicio
       Leia (endereco_cidade)
       Escreval ("Por favor, informe o seu CEP.")
       Leia (endereco_cep)
-      Escreval ("Para finalizar, informe seu endereço e número:")
+      Escreval ("Para finalizar, informe seu endereÃ§o e nÃºmero:")
       Leia (endereco_rua)
       Escreval (" ")
       Escreval ("-----------------------------------------------------------")
@@ -23,5 +23,5 @@ inicio
       Escreval ("Idade: ", idade)
       Escreval ("Cidade: ", endereco_cidade)
       Escreval ("CEP: ", endereco_cep)
-      Escreval ("Endereço: ", endereco_rua)
+      Escreval ("EndereÃ§o: ", endereco_rua)
 fimalgoritmo
